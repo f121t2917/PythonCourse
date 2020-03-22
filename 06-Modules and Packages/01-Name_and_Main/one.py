@@ -7,3 +7,10 @@ if __name__ == "__main__":
     print("one.py is being run directly")
 else:
     print("one.py is being imported into another module")
+    
+'''
+# python one.py
+
+top-level print inside of one.py
+one.py is being run directly
+'''
